@@ -1,4 +1,4 @@
-<img src="../pictures/101-banner.png" alt="Crosstide banner" />
+<img src="../pictures/Git-hub_banner.png" alt="Crosstide banner" />
 
 ## Introduction 🤝
 
